@@ -1,1 +1,4 @@
 # MIM
+
+Exercice git MIM
+================
